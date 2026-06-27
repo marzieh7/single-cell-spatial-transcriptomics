@@ -10,50 +10,56 @@ The required datasets are downloaded directly inside the notebooks, so there is 
 
 ---
 
-Course Content
+## Course Content
 
-This training course is focused on the basic concepts and practical analysis of single-cell RNA-seq and spatial transcriptomics data.
+This training course is focused on the basic concepts and practical analysis of **single-cell RNA-seq** and **spatial transcriptomics** data.
 
 The materials are organized into two main parts:
 
-Single-cell RNA-seq Analysis
-Spatial Transcriptomics Analysis
+1. **Single-cell RNA-seq Analysis**
+2. **Spatial Transcriptomics Analysis**
 
 Each part includes lecture slides, Google Colab notebooks, and practical exercises.
 
-Part 1 — Single-cell RNA-seq Analysis
+---
+
+## Part 1 — Single-cell RNA-seq Analysis
 
 This section introduces the main concepts and computational workflow used in single-cell RNA-seq analysis.
 
-Main topics include:
+### Main Topics
 
-Introduction to single-cell RNA-seq
-Data loading and AnnData structure
-Quality control and filtering
-Normalization and feature selection
-Dimensionality reduction
-Clustering and visualization
-Cell type annotation
-Differential gene expression analysis
-Advanced analysis concepts such as cell–cell communication, pseudotime, pathway activity, and gene regulatory networks
-Common pitfalls and workflow summary
-Part 2 — Spatial Transcriptomics Analysis
+* Introduction to single-cell RNA-seq
+* Data loading and AnnData structure
+* Quality control and filtering
+* Normalization and feature selection
+* Dimensionality reduction
+* Clustering and visualization
+* Cell type annotation
+* Differential gene expression analysis
+* Advanced analysis concepts such as cell–cell communication, pseudotime, pathway activity, and gene regulatory networks
+* Common pitfalls and workflow summary
+
+---
+
+## Part 2 — Spatial Transcriptomics Analysis
 
 This section introduces spatial transcriptomics technologies, data structure, analysis methods, and biological interpretation.
 
-Main topics include:
+### Main Topics
 
-Introduction to spatial transcriptomics
-Spatial transcriptomics technologies and platforms
-Spatial data structure and formats
-Preprocessing and quality control
-Dimensionality reduction and clustering
-Spatial organization and tissue structure
-Spatial analysis methods
-Cell type analysis in spatial data
-Biological interpretation of spatial results
-AI applications in spatial omics
-Software tools, datasets, and useful resources
+* Introduction to spatial transcriptomics
+* Spatial transcriptomics technologies and platforms
+* Spatial data structure and formats
+* Preprocessing and quality control
+* Dimensionality reduction and clustering
+* Spatial organization and tissue structure
+* Spatial analysis methods
+* Cell type analysis in spatial data
+* Biological interpretation of spatial results
+* AI applications in spatial omics
+* Software tools, datasets, and useful resources
+
 
 ---
 
