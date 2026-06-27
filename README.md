@@ -10,24 +10,50 @@ The required datasets are downloaded directly inside the notebooks, so there is 
 
 ---
 
-## Course Overview
+Course Content
 
-This training covers the basic concepts and practical analysis steps for:
+This training course is focused on the basic concepts and practical analysis of single-cell RNA-seq and spatial transcriptomics data.
 
-* Single-cell RNA-seq data
-* Count matrix, cell barcode, and UMI
-* Quality control
-* Normalization
-* Highly variable genes
-* PCA and UMAP
-* Clustering
-* Cell type annotation
-* Differential expression analysis
-* Spatial transcriptomics
-* Visium/spatial data structure
-* Spatial visualization
-* Spatial neighborhood analysis
-* Spatially variable genes
+The materials are organized into two main parts:
+
+Single-cell RNA-seq Analysis
+Spatial Transcriptomics Analysis
+
+Each part includes lecture slides, Google Colab notebooks, and practical exercises.
+
+Part 1 — Single-cell RNA-seq Analysis
+
+This section introduces the main concepts and computational workflow used in single-cell RNA-seq analysis.
+
+Main topics include:
+
+Introduction to single-cell RNA-seq
+Data loading and AnnData structure
+Quality control and filtering
+Normalization and feature selection
+Dimensionality reduction
+Clustering and visualization
+Cell type annotation
+Differential gene expression analysis
+Advanced analysis concepts such as cell–cell communication, pseudotime, pathway activity, and gene regulatory networks
+Common pitfalls and workflow summary
+Part 2 — Spatial Transcriptomics Analysis
+
+This section introduces spatial transcriptomics technologies, data structure, analysis methods, and biological interpretation.
+
+Main topics include:
+
+Introduction to spatial transcriptomics
+Spatial transcriptomics technologies and platforms
+Spatial data structure and formats
+Preprocessing and quality control
+Dimensionality reduction and clustering
+Spatial organization and tissue structure
+Spatial analysis methods
+Cell type analysis in spatial data
+Biological interpretation of spatial results
+AI applications in spatial omics
+Software tools, datasets, and useful resources
 
 ---
 
@@ -37,10 +63,10 @@ This training covers the basic concepts and practical analysis steps for:
 .
 ├── README.md
 ├── slides/
-│   ├── session-01-single-cell-introduction.pdf
-│   ├── session-02-single-cell-analysis.pdf
-│   ├── session-03-spatial-transcriptomics-introduction.pdf
-│   └── session-04-spatial-analysis.pdf
+│   ├── 01-single-cell-introduction.pdf
+│   ├── 02-single-cell-analysis.pdf
+│   ├── 03-spatial-transcriptomics-introduction.pdf
+│   └── 04-spatial-analysis.pdf
 │
 ├── colab/
 │   ├── 01-scrna-seq-analysis.ipynb
@@ -48,7 +74,7 @@ This training covers the basic concepts and practical analysis steps for:
 │   
 │   
 │
-└── assignment/
+└── exercises/
     ├── Assignment_2.pdf
     ├── Assignment_3.pdf
     
